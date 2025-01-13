@@ -66,6 +66,6 @@ Ends the screen and gives credits to the creators of the game.
 Assembly programming package is provided with the project.asm
 * Just download the SFX (AsseT.exe), extract it anywhere you want, and start programming!
 * To do that, click on AsseT.exe in the list of files given above, and then click the Download button at the right side of the screen.
-* After extraction, you have to run the shortcut named code to get started. Some other instructions are given in the readme.txt file.
+* After extraction, you have to run the shortcut named code to get started.
 
 
